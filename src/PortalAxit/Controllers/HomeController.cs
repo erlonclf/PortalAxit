@@ -23,6 +23,9 @@ namespace PortalAxit.Controllers
     public void XXX()
     {
     }
+
+    public void yyy()
+    { }
     public IActionResult Meuteste()
     {
       return null;
